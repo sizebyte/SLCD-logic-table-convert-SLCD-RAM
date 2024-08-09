@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1723088934 source:d:\code_block_workspace\converslcdstringtab\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"converSLCDStringTab.h"
+
+1723195405 d:\code_block_workspace\converslcdstringtab\converslcdstringtab.h
+
+1723189968 source:d:\code_block_workspace\converslcdstringtab\converslcdstringtab.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"converSLCDStringTab.h"
+
